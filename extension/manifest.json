@@ -21,7 +21,7 @@
     "*://matchmaker.krunker.io/*",
     "*://linkvertise.com/*",
     "*://api.countapi.xyz/*",
-    "*://dogeware.cheems.art/*"
+    "*://ingame.faceit.com/*"
   ],
   "web_accessible_resources": [
     "*.js",
